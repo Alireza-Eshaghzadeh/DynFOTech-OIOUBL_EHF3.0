@@ -1,3 +1,4 @@
 Release note
 You need to import OIOUBL Sales invoice version 273.49 from Micorosft repositories and then you can import the "OIOUBL Sales invoice-DFT (273.49.1)" file.
-Version 1 - CompanyContactInfo contain update mapping for </cac:AccountingSupplierParty> contact information. It will use company phone and email and Employee responsible as conatct name if it is existed on customer card.
+Version 1 - CompanyContactInfo contain update mapping for </cac:AccountingSupplierParty> contact information. It will use company phone and email and Employee responsible as contact name if it is existed on customer card.
+
