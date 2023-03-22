@@ -4,6 +4,8 @@ This custom model mapping contain new mapping for Delivery and Invoice address. 
 2- Customer card > Address with 'Invoice' or 'Delivery'  purpose
 3- Customer card > Primary address
 
+This new model avoid customers to credit the invoices that are posted without Delivery and Invoice address.
+
 **Version 1: #1 References **
 This custom model mapping contain updated mapping for Customer reference(CustomerRef) and Customer requisition (PurchaseOrder). It will return customer’s name if customer reference or Customer requisition is empty on free text invoice or sales order. 
 
