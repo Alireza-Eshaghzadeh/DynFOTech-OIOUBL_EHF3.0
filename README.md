@@ -1,4 +1,4 @@
-# PEPPOL-BIS-Billing-3.0-EHF3.0-
+# OIOUBL-EHF3.0-
 OIOUBL configurations are primarily designed for Austria, Denmark, and Norway. They are differentiated based on the following components:
 
 -OIOUBL Project invoice
